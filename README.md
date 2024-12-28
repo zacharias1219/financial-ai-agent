@@ -78,6 +78,10 @@ This project demonstrates creating an end-to-end **financial analysis AI agent**
    python financial_agent.py
    ```
 
+ 6. **Output**:
+
+    ![image](https://github.com/user-attachments/assets/007fc92c-7fb4-4ef4-828d-c5a6facc01b8)
+
 ---
 
 ## **Directory Structure**
